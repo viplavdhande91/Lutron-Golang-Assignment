@@ -1,0 +1,10 @@
+
+
+=>work on GO assignment
+q1 {a,b}     DONE
+q3)          DONE
+q4)          DONE
+q5)          DONE
+q6)a         NOT DONE
+q6)b         DONE
+q7)          DONE
